@@ -81,9 +81,9 @@ Portfolio ini dioptimalkan dengan:
 
 Hubungi Ade Habib Dirja melalui:
 - 📧 Email: adehabib23@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/ade-habib-dirja-50315821b] (https://www.linkedin.com/in/ade-habib-dirja-50315821b)
-- 🐙 GitHub: [https://github.com/bobbib23] (https://github.com/bobbib23)
-- 🌐 Website: [https://dirja.web.id] (https://dirja.web.id)
+- 💼 LinkedIn: https://www.linkedin.com/in/ade-habib-dirja-50315821b
+- 🐙 GitHub: https://github.com/bobbib23
+- 🌐 Website: https://dirja.web.id
 
 ---
 
