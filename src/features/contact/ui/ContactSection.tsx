@@ -57,7 +57,7 @@ export function ContactSection() {
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-6">
           <div className="flex items-start gap-4">
-            <div className="p-3 rounded-lg bg-[var(--primary)]/10 text-[var(--primary)]">
+            <div className="p-3 rounded-lg bg-blue-500/10 text-blue-500">
               <Mail size={24} />
             </div>
             <div>
@@ -71,7 +71,7 @@ export function ContactSection() {
             </div>
           </div>
           <div className="flex items-start gap-4">
-            <div className="p-3 rounded-lg bg-[var(--primary)]/10 text-[var(--primary)]">
+            <div className="p-3 rounded-lg bg-blue-500/10 text-blue-500">
               <MapPin size={24} />
             </div>
             <div>
@@ -80,7 +80,7 @@ export function ContactSection() {
             </div>
           </div>
           <div className="flex items-start gap-4">
-            <div className="p-3 rounded-lg bg-[var(--primary)]/10 text-[var(--primary)]">
+            <div className="p-3 rounded-lg bg-blue-500/10 text-blue-500">
               <PhoneCall size={24} />
             </div>
             <div>

@@ -3,12 +3,10 @@
 :root {
   --background: #00072D;
   --foreground: #ededed;
-
-  --primary: 59 130 246;
-  --primary-hover: 37 99 235;
-
+  --primary: #3b82f6;
+  --primary-hover: #2563eb;
   --card: #00072D;
-  --border: 31 31 31;
+  --border: #1f1f1f;
 }
 
 body {
