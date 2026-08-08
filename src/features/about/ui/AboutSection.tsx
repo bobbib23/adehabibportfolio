@@ -2,7 +2,7 @@ import { Section } from "@/shared/ui/Section";
 
 export function AboutSection() {
   return (
-    <Section id="about" className="bg-[var(--card)]">
+    <Section id="about" className="bg-black/40">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div>
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-6">
@@ -29,7 +29,7 @@ export function AboutSection() {
           </div>
         </div>
         <div className="relative">
-          <div className="aspect-square rounded-2xl bg-gradient-to-br from-[var(--primary)]/20 to-purple-500/20 border border-[var(--border)] flex items-center justify-center">
+          <div className="aspect-square rounded-2xl bg-gradient-to-br from-[var(--background)]/20 to-purple-500/20 border border-[var(--border)] flex items-center justify-center">
             <div className="text-center p-8">
               <div className="text-6xl font-bold text-white mb-2">5+</div>
               <div className="text-gray-400">Years Experience</div>

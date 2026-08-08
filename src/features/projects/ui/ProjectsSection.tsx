@@ -4,7 +4,7 @@ import { ExternalLink, Github } from "lucide-react";
 
 export function ProjectsSection() {
   return (
-    <Section id="projects" className="bg-[var(--card)]">
+    <Section id="projects" className="bg-black/20">
       <div className="text-center mb-12">
         <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
           Featured Projects

@@ -1,7 +1,6 @@
 import { Button } from '@/shared/ui/Button';
 import { Section } from '@/shared/ui/Section';
 import { Download, ArrowDown } from 'lucide-react';
-import DarkVeil from '@/app/components/backgrounds/Darkveil';
 
 export function HeroSection() {
   return (
@@ -9,17 +8,6 @@ export function HeroSection() {
       id="home"
       className="relative min-h-screen flex items-center pt-16 overflow-hidden"
     >
-      {/* Background WebGL */}
-      <div className="absolute inset-0 -z-10">
-        <DarkVeil
-          hueShift={0}
-          noiseIntensity={0.02}
-          scanlineIntensity={0.03}
-          speed={1.8}
-        />
-      </div>
-
-      {/* Overlay agar teks lebih terbaca */}
       <div className="absolute inset-0 -z-10 bg-black/40" />
 
       {/* Content */}

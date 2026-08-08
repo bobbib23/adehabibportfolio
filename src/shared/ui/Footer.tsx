@@ -6,7 +6,7 @@ export function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-400">
-            © {currentYear} Ade Habib Dirja Portfolio. All rights reserved.
+            © {currentYear} <a href="https://dirja.web.id">Ade Habib Dirja Portfolio</a>. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a
